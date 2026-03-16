@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Rhett
-
 <p align="center">
   <img src="./banner.png" />
 </p>
@@ -33,13 +31,5 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
-
----
-
-# 🔥 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RhettButlerX&theme=tokyo-night">
-</p>
 
 ---

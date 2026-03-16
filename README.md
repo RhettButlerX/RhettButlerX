@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rhett
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Java+Developer;&center=true&width=500&height=45">
+  <img src="./banner.png" />
 </p>
 
 ---
